@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ihor\\PB_Uddannelse\\Test\\pipeline\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7D040C-D564-4FC0-B2C7-749A4543966F}|Test_Server\\Test_Server.csproj|c:\\ihor\\pb_uddannelse\\test\\pipeline\\consoleapp1\\test_server\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7D040C-D564-4FC0-B2C7-749A4543966F}|Test_Server\\Test_Server.csproj|solutionrelative:test_server\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Ihor\\PB_Uddannelse\\Test\\pipeline\\Net_project\\Test_Server\\ServerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerTests.cs",
+              "DocumentMoniker": "C:\\Ihor\\PB_Uddannelse\\Test\\pipeline\\Net_project\\Test_Server\\ServerTests.cs",
+              "RelativeDocumentMoniker": "..\\Net_project\\Test_Server\\ServerTests.cs",
+              "ToolTip": "C:\\Ihor\\PB_Uddannelse\\Test\\pipeline\\Net_project\\Test_Server\\ServerTests.cs",
+              "RelativeToolTip": "..\\Net_project\\Test_Server\\ServerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:14:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Ihor\\PB_Uddannelse\\Test\\pipeline\\ConsoleApp1\\Test_Server\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_Server\\UnitTest1.cs",
+              "ToolTip": "C:\\Ihor\\PB_Uddannelse\\Test\\pipeline\\ConsoleApp1\\Test_Server\\UnitTest1.cs",
+              "RelativeToolTip": "Test_Server\\UnitTest1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:14:25.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

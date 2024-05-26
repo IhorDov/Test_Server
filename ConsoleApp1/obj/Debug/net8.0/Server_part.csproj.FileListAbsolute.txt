@@ -1,0 +1,14 @@
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Server_part.exe
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Server_part.deps.json
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Server_part.runtimeconfig.json
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Server_part.dll
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Server_part.pdb
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.AssemblyInfoInputs.cache
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.AssemblyInfo.cs
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.csproj.CoreCompileInputs.cache
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.dll
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Server_part.dll
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.pdb
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Server_part.genruntimeconfig.cache
+C:\Ihor\PB_Uddannelse\Test\pipeline\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Server_part.dll
